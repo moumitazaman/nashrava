@@ -1,0 +1,11 @@
+/*========================================
+    2. HEADER STYLES
+==========================================*/
+.topbar-menu ul li, .topbar-menu ul li a {
+  color: #fff;
+}
+.topbar-menu ul li ul li.dropdown-menu, .topbar-menu ul li ul a {
+  color: #5a5a5a;
+}
+.topbar-menu ul li:hover, .topbar-menu ul li a:hover{color:#fff;}
+.top-social-icons > ul > li > a:hover {color:#fff;}
